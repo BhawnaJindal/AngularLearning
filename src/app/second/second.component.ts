@@ -12,4 +12,10 @@ export class SecondComponent {
   onSubbmitClick(){
     this.Outputdata.emit('x');
   }
+
+  public abc()
+  {
+    
+  }
+  
 }
